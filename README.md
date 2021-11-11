@@ -6,4 +6,4 @@ Windows 10 x64 or Newer OS
 At Least 4GB RAM 
 Use VirtualBox or VMware
   WARNING! IM NOT REPONSIBLE FOR ANY DAMAGES!
- 
+ Thank you and enjoy!
